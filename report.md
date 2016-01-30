@@ -1,7 +1,7 @@
 UECM3033 Assignment #1 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
+- Prepared by: ** Alex Yong Wei Chun**
 - Tutorial Group: T2/T3
 
 --------------------------------------------------------
@@ -10,7 +10,7 @@ UECM3033 Assignment #1 Report
 
 The reports, codes and supporting documents are uploaded to Github at: 
 
-[https://github.com/your_github_id/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
+[https://github.com/0904694/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
 
 
 ---------------------------------------------------------
@@ -19,7 +19,7 @@ The reports, codes and supporting documents are uploaded to Github at:
 
 Put here the screen shot of file (python.png)
 
-![python.png](python.png)
+![https://github.com/0904694/UECM3033_assign1/blob/master/python.png](python.png)
 
 
 ------------------------------------------------------------
